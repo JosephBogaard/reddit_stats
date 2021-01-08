@@ -16,3 +16,4 @@ Since then, I have been coding to use proxies for my pull requests to retreive a
 After this, I will apply the MatPlotLib plotting library to create graphs for the given metrics.
 Additionally, I am hoping to add top level comments for analysis.
 Easily added, for another metric, can also be querying the data for number of posts, or comments (if added) with keywords. This can be done easily at runtime or after with most programming languages or excel itself.
+Another interesting metric would be posts over time and posts containing key words over time.
